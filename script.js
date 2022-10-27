@@ -12,7 +12,7 @@ col.setAttribute("class","col-md-8");
 //heading to show what is all about
 var heading = document.createElement("h1");
 heading.setAttribute("class","display-4");
-heading.innerHTML = "Nationalize API"
+heading.innerHTML = "Predicting Nationality From A Name"
 
 //formgroup div element to hold input field, button and all other divs
 let formgroup = document.createElement("div");
